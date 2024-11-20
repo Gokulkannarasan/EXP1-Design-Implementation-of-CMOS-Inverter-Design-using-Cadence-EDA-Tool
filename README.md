@@ -8,7 +8,8 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 
 ### Circuit Diagram:
 
-![Screenshot (26)](https://github.com/user-attachments/assets/dbe18d6a-22f6-4b44-af27-8649e1f6c500)
+![IMG-20241115-WA0007](https://github.com/user-attachments/assets/b855ced4-5247-4571-9158-d4729d62fa80)
+
 
 
 ### S C H E M A T I C S I M U L A T I O N :
